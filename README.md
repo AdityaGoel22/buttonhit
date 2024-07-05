@@ -21,7 +21,7 @@ pip install opencv-python cvzone numpy
 
   1. **Connect Webcam**: Ensure your webcam is properly connected to your computer.
   2. **Run the Script**: Execute the script using the Python interpreter:
-     ```
+    ```
     python buttonHit.py
     ```
   3. **Gameplay**:
